@@ -1,0 +1,10 @@
+python-dotenv
+PyMySQL
+psycopg2
+pandas
+requests
+pytest
+openpyxl
+#gql[all]
+colorist
+sentence-transformers
